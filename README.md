@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi, I'm Nikola. 👋
 
+I help companies building truly scalable digital products using cloud-native technologies.
+
+Last six years, As an open-source evangelist, I am focused on industrial IoT, automation and secure data exchange in Industry 4.0
+I was working closely with Enterprises I was designing mission-critical, real-life IoT solutions.
+
+These days I am working on new ideas with the primary mission of building community first open IoT governance with shared ownership. A mission is to design and develop tools and technology for the enterprise, robust IoT solutions.
+
+If you are interested in joining, [drop me a line](mailto:n.marcetic86@gmail.com) or you are startup/enterprise who want's to support and participate, [Let's talk](https://calendly.com/nmarcetic/iot-synergy) or stay tuned by following me on [Twitter](https://twitter.com/n_marcetic)
 <!--
 **nmarcetic/nmarcetic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
