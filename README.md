@@ -3,7 +3,7 @@
 I help companies building truly scalable digital products using cloud-native technologies.
 
 Last six years, As an open-source evangelist, I am focused on industrial IoT, automation and secure data exchange in Industry 4.0
-I was working closely with Enterprises I was designing mission-critical, real-life IoT solutions.
+I was working closely with Enterprises in designing mission-critical, real-life IoT solutions.
 
 These days I am working on new ideas with the primary mission of building community first open IoT governance with shared ownership. A mission is to design and develop tools and technology for the enterprise, robust IoT solutions.
 
