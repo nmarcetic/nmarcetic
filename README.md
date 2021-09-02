@@ -2,6 +2,12 @@
 
 I help companies building truly scalable digital products using cloud-native technologies.
 
+[![Personal Website](https://img.shields.io/badge/-Website-red?style=flat&logo=appveyor&logoColor=white)](https://nmarcetic.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/nmarcetic)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=blue&logo=Twitter&logoColor=white)](https://twitter.com/n_marcetic)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcetic/)
+![Profile views](https://gpvc.arturio.dev/nmarcetic)
+
 Last six years, As an open-source evangelist, I am focused on industrial IoT, automation and secure data exchange in Industry 4.0
 I was working closely with Enterprises in designing mission-critical, real-life IoT solutions.
 
