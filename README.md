@@ -8,12 +8,11 @@ I help companies building truly scalable digital products using cloud-native tec
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcetic/)
 ![Profile views](https://gpvc.arturio.dev/nmarcetic)
 
-Last six years, As an open-source evangelist, I am focused on industrial IoT, automation and secure data exchange in Industry 4.0
+As an open-source evangelist, I was focused on industrial IoT, automation and secure data exchange in Industry 4.0
 I was working closely with Enterprises in designing mission-critical, real-life IoT solutions.
 
-These days I am working on new ideas with the primary mission of building community first open IoT governance with shared ownership. A mission is to design and develop tools and technology for the enterprise, robust IoT solutions.
+These days I am trailblazin the new dawn of decentralized finance with [InjectiveProtocol](https://injective.com).
 
-If you are interested in joining, [drop me a line](mailto:n.marcetic86@gmail.com) or you are startup/enterprise who want's to support and participate, [Let's talk](https://calendly.com/nmarcetic/iot-synergy) or stay tuned by following me on [Twitter](https://twitter.com/n_marcetic)
 
 <a style="float:right" href="https://github.com/nmarcetic">
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=nmarcetic&show_icons=true" />
