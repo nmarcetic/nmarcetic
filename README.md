@@ -8,10 +8,9 @@ I help companies building truly scalable digital products using cloud-native tec
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcetic/)
 ![Profile views](https://gpvc.arturio.dev/nmarcetic)
 
-As an open-source evangelist, I was focused on industrial IoT, automation and secure data exchange in Industry 4.0
-I was working closely with Enterprises in designing mission-critical, real-life IoT solutions.
+Blockchain | Distributed systems
 
-These days I am trailblazin the new dawn of decentralized finance with [InjectiveProtocol](https://injective.com).
+Trailblazin the new dawn of decentralized finance with [InjectiveProtocol](https://injective.com).
 
 
 <a style="float:right" href="https://github.com/nmarcetic">
